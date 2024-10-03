@@ -1,5 +1,3 @@
-// src/AddTodo.js
-
 import React, { useState } from 'react';
 
 const AddTodo = ({ addTodo }) => {
